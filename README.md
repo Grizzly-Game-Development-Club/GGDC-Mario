@@ -14,7 +14,7 @@ Engine as it's primary game development engine.
 1. **Hieu Dinh** - Project Lead
 2. **Derek Huynh** - Scripter
 3. **Jelani Gosier** - Level Designer
-4. **Andy (Pending)** - Animation
+4. **Andy Nguyen** - Animation
 
 ### ASSET LICENSING 
 All assets used in the game are licensed under https://unity3d.com/legal/as_terms 
