@@ -8,8 +8,8 @@ Engine as it's primary game development engine.
 
 ### Team Info
 #### Spring 2018
-* Team Name: GGDC-Mario
-* Repository Location: https://github.com/GrizzlyGameDev/Mario
+* Team Name: Mario
+* Repository Location: https://github.com/Grizzly-Game-Development-Club/GGDC-Mario
 * Communication: Discord | Groupme
 1. **Hieu Dinh** - Project Lead
 2. **Derek Huynh** - Scripter
