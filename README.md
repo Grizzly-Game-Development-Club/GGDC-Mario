@@ -19,6 +19,7 @@ Engine as it's primary game development engine.
 6. **Breeona Day** - Generalist
 7. **Marcus Gillespie** - Generalist
 8. **Nancy Sardar** - Generalist
+9. **Christopher Sexton** - Generalist
 
 ### ASSET LICENSING 
 All assets used in the game are licensed under https://unity3d.com/legal/as_terms 
