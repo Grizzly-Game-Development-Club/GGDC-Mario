@@ -7,14 +7,17 @@ public class PlayerController : MonoBehaviour
     public float speed = 5f;
     public float height = 5;
 
+    Animator animator;
+
     public bool grounded = false;
 
     private Rigidbody2D rb2d;
 
-    void Start()
+    void Start() //for initialization
     {
         // Sets Rigidbody2D component to rb2d
         rb2d = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
