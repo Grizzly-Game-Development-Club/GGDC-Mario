@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 94d39315e49bb164d8e536b8e9f13c81
-timeCreated: 1522608941
+timeCreated: 1522782350
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -214,8 +214,8 @@ TextureImporter:
       name: Mario-16_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 236
+        x: 26
+        y: 111
         width: 16
         height: 16
       alignment: 0
@@ -228,10 +228,10 @@ TextureImporter:
       name: Mario-16_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 236
-        width: 16
-        height: 16
+        x: 48
+        y: 111
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Mario-16_2
       rect:
         serializedVersion: 2
-        x: 38
-        y: 236
+        x: 58
+        y: 111
         width: 16
-        height: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,9 +256,9 @@ TextureImporter:
       name: Mario-16_3
       rect:
         serializedVersion: 2
-        x: 56
-        y: 236
-        width: 16
+        x: 76
+        y: 111
+        width: 12
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: Mario-16_4
       rect:
         serializedVersion: 2
-        x: 74
-        y: 236
+        x: 4
+        y: 93
         width: 16
-        height: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,8 +284,8 @@ TextureImporter:
       name: Mario-16_5
       rect:
         serializedVersion: 2
-        x: 92
-        y: 236
+        x: 22
+        y: 93
         width: 16
         height: 16
       alignment: 0
@@ -298,8 +298,8 @@ TextureImporter:
       name: Mario-16_6
       rect:
         serializedVersion: 2
-        x: 110
-        y: 236
+        x: 40
+        y: 93
         width: 16
         height: 16
       alignment: 0
@@ -312,8 +312,8 @@ TextureImporter:
       name: Mario-16_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 236
+        x: 58
+        y: 93
         width: 16
         height: 16
       alignment: 0
@@ -326,8 +326,8 @@ TextureImporter:
       name: Mario-16_8
       rect:
         serializedVersion: 2
-        x: 146
-        y: 236
+        x: 76
+        y: 93
         width: 16
         height: 16
       alignment: 0
@@ -340,10 +340,10 @@ TextureImporter:
       name: Mario-16_9
       rect:
         serializedVersion: 2
-        x: 164
-        y: 236
+        x: 94
+        y: 93
         width: 16
-        height: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,9 +354,9 @@ TextureImporter:
       name: Mario-16_10
       rect:
         serializedVersion: 2
-        x: 2
-        y: 218
-        width: 16
+        x: 6
+        y: 75
+        width: 14
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -368,8 +368,8 @@ TextureImporter:
       name: Mario-16_11
       rect:
         serializedVersion: 2
-        x: 20
-        y: 218
+        x: 22
+        y: 75
         width: 16
         height: 16
       alignment: 0
@@ -382,8 +382,8 @@ TextureImporter:
       name: Mario-16_12
       rect:
         serializedVersion: 2
-        x: 38
-        y: 218
+        x: 40
+        y: 75
         width: 16
         height: 16
       alignment: 0
@@ -396,8 +396,8 @@ TextureImporter:
       name: Mario-16_13
       rect:
         serializedVersion: 2
-        x: 56
-        y: 218
+        x: 58
+        y: 75
         width: 16
         height: 16
       alignment: 0
@@ -410,8 +410,8 @@ TextureImporter:
       name: Mario-16_14
       rect:
         serializedVersion: 2
-        x: 74
-        y: 218
+        x: 76
+        y: 75
         width: 16
         height: 16
       alignment: 0
@@ -424,9 +424,9 @@ TextureImporter:
       name: Mario-16_15
       rect:
         serializedVersion: 2
-        x: 92
-        y: 218
-        width: 16
+        x: 94
+        y: 75
+        width: 14
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -438,9 +438,9 @@ TextureImporter:
       name: Mario-16_16
       rect:
         serializedVersion: 2
-        x: 110
-        y: 218
-        width: 16
+        x: 6
+        y: 57
+        width: 14
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -452,8 +452,8 @@ TextureImporter:
       name: Mario-16_17
       rect:
         serializedVersion: 2
-        x: 128
-        y: 218
+        x: 22
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -466,8 +466,8 @@ TextureImporter:
       name: Mario-16_18
       rect:
         serializedVersion: 2
-        x: 146
-        y: 218
+        x: 40
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -480,8 +480,8 @@ TextureImporter:
       name: Mario-16_19
       rect:
         serializedVersion: 2
-        x: 164
-        y: 218
+        x: 58
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -494,8 +494,8 @@ TextureImporter:
       name: Mario-16_20
       rect:
         serializedVersion: 2
-        x: 2
-        y: 200
+        x: 76
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -508,9 +508,9 @@ TextureImporter:
       name: Mario-16_21
       rect:
         serializedVersion: 2
-        x: 20
-        y: 200
-        width: 16
+        x: 94
+        y: 57
+        width: 14
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -522,8 +522,8 @@ TextureImporter:
       name: Mario-16_22
       rect:
         serializedVersion: 2
-        x: 38
-        y: 200
+        x: 4
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -536,8 +536,8 @@ TextureImporter:
       name: Mario-16_23
       rect:
         serializedVersion: 2
-        x: 56
-        y: 200
+        x: 22
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -550,8 +550,8 @@ TextureImporter:
       name: Mario-16_24
       rect:
         serializedVersion: 2
-        x: 74
-        y: 200
+        x: 40
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -564,8 +564,8 @@ TextureImporter:
       name: Mario-16_25
       rect:
         serializedVersion: 2
-        x: 92
-        y: 200
+        x: 58
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -578,8 +578,8 @@ TextureImporter:
       name: Mario-16_26
       rect:
         serializedVersion: 2
-        x: 110
-        y: 200
+        x: 76
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -592,8 +592,8 @@ TextureImporter:
       name: Mario-16_27
       rect:
         serializedVersion: 2
-        x: 128
-        y: 200
+        x: 94
+        y: 39
         width: 16
         height: 16
       alignment: 0
@@ -606,8 +606,8 @@ TextureImporter:
       name: Mario-16_28
       rect:
         serializedVersion: 2
-        x: 146
-        y: 200
+        x: 4
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -620,8 +620,8 @@ TextureImporter:
       name: Mario-16_29
       rect:
         serializedVersion: 2
-        x: 164
-        y: 200
+        x: 22
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -634,8 +634,8 @@ TextureImporter:
       name: Mario-16_30
       rect:
         serializedVersion: 2
-        x: 2
-        y: 182
+        x: 40
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -648,8 +648,8 @@ TextureImporter:
       name: Mario-16_31
       rect:
         serializedVersion: 2
-        x: 20
-        y: 182
+        x: 58
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -662,8 +662,8 @@ TextureImporter:
       name: Mario-16_32
       rect:
         serializedVersion: 2
-        x: 38
-        y: 182
+        x: 76
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -676,8 +676,8 @@ TextureImporter:
       name: Mario-16_33
       rect:
         serializedVersion: 2
-        x: 56
-        y: 182
+        x: 94
+        y: 21
         width: 16
         height: 16
       alignment: 0
@@ -690,10 +690,10 @@ TextureImporter:
       name: Mario-16_34
       rect:
         serializedVersion: 2
-        x: 74
-        y: 182
-        width: 16
-        height: 16
+        x: 6
+        y: 9
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,9 +704,9 @@ TextureImporter:
       name: Mario-16_35
       rect:
         serializedVersion: 2
-        x: 92
-        y: 182
-        width: 16
+        x: 18
+        y: 3
+        width: 20
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: Mario-16_36
       rect:
         serializedVersion: 2
-        x: 110
-        y: 182
-        width: 16
-        height: 16
+        x: 22
+        y: 15
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -732,10 +732,10 @@ TextureImporter:
       name: Mario-16_37
       rect:
         serializedVersion: 2
-        x: 128
-        y: 182
+        x: 40
+        y: 7
         width: 16
-        height: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -746,10 +746,10 @@ TextureImporter:
       name: Mario-16_38
       rect:
         serializedVersion: 2
-        x: 146
-        y: 182
+        x: 58
+        y: 7
         width: 16
-        height: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -760,8 +760,8 @@ TextureImporter:
       name: Mario-16_39
       rect:
         serializedVersion: 2
-        x: 164
-        y: 182
+        x: 76
+        y: 3
         width: 16
         height: 16
       alignment: 0
@@ -774,10 +774,10 @@ TextureImporter:
       name: Mario-16_40
       rect:
         serializedVersion: 2
-        x: 2
-        y: 164
-        width: 16
-        height: 16
+        x: 86
+        y: 15
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -788,1256 +788,10 @@ TextureImporter:
       name: Mario-16_41
       rect:
         serializedVersion: 2
-        x: 20
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_42
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_43
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_44
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_45
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_46
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_47
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_48
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_49
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 164
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_50
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_51
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_52
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_53
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_54
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_55
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_56
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_57
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_58
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_59
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 146
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_60
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_61
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_62
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_63
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_64
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_65
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_66
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_67
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_68
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_69
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_70
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_71
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_72
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_73
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_74
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_75
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_76
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_77
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_78
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_79
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_80
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_81
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_82
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_83
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_84
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_85
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 92
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_86
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_87
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_88
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_89
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_90
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_91
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_92
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_93
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_94
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_95
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_96
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 74
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_97
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_98
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_99
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_100
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_101
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_102
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_103
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_104
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_105
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_106
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_107
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_108
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_109
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_110
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_111
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_112
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_113
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_114
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_115
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_116
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_117
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_118
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_119
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_120
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_121
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_122
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_123
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_124
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_125
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_126
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_127
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 20
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_128
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_129
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mario-16_130
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 2
-        width: 16
-        height: 16
+        x: 94
+        y: 5
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
